@@ -26,12 +26,11 @@ I'm an aspiring full-stack and Artificial Intelligence creator who enjoys buildi
           <img alt="Email" title "Please email me" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
      </a> 
      <a href="https://www.linkedin.com/in/manjesh-p-91902919a/">
-         <img alt="LinkedIn" title="Connect with me on LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>      </a> 
+         <img alt="LinkedIn" title="Connect with me on LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+     </a> 
 </div>
-      
+
 ---
-
-
 
 ### 🧰 Languages and Tools
 <div>
