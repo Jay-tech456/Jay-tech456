@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-###`💻🪐☃️  Software Sculpture(Fullstack/Artificial Intelligence/Creator)  🖥️⌨️☀️`**
+**`💻🪐☃️  Software Sculpture(Fullstack/Artificial Intelligence/Creator)  🖥️⌨️☀️`**
 
 I'm an aspiring full-stack and Artificial Intelligence creator who enjoys building innovative technologies that have an impact on the digital economy one step at a time. I enjoy contributing to all sorts of projects, ranging from basic structures to large enterprise applications. From planning and designing all the way to solving really complex real-world problems with code is what I enjoy the most. I continuously contribute to any real-world open-source projects.
 
