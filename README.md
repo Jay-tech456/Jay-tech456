@@ -22,6 +22,7 @@ I'm an aspiring full-stack and Artificial Intelligence creator who enjoys buildi
 
 
 <p align="left>
+     <a href="mailto:manjeshprasad21@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
      <a href="https://www.linkedin.com/in/manjesh-p-91902919a/">
          <img alt="youtube subscribers" title="Connect with me on LinkedIn" style="font-family: cursive" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
       
