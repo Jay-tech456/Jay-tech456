@@ -23,7 +23,7 @@ I'm an aspiring full-stack and Artificial Intelligence creator who enjoys buildi
 🔭 I’m currently building my skills in Artificial Intelligence, Fullstack development, and Distributed Systems <br>
 🌱 I’m currently looking for a Full-Time Software Engineer Role <br>
 📚 MSE @ San Jose State University <br>
-💬 Ask me about Jazz, Anime, and Jazz
+💬 Ask me about Jazz, Anime, Valorant, and Code
 
 <div> 
      <a href="mailto:manjeshprasad21@gmail.com"> 
