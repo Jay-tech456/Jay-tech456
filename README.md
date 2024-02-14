@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+ 
 
 **`💻🪐  Software Sculpture(Fullstack/Artificial Intelligence/Creator)  🖥️ `**
 
