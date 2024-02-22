@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 I'm an aspiring full-stack and Artificial Intelligence creator who enjoys building innovative technologies that have an impact on the digital economy one step at a time. I enjoy contributing to all sorts of projects, ranging from basic structures to large enterprise applications. From planning and designing all the way to solving really complex real-world problems with code is what I enjoy the most. 
 
 <pre>
-🔭 I’m currently building my skills in [!TIP] Artificial Intelligence, Fullstack development, and Distributed Systems <br>
+🔭 I’m currently building my skills in Artificial Intelligence, Fullstack development, and Distributed Systems <br>
 🌱 I’m currently looking for a Full-Time Software Engineering Role <br>
 📚 MSE @ San Jose State University <br>
 💬 Ask me about Jazz, Anime, Valorant, and Code
