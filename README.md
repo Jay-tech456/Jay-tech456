@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anta&size=25&duration=3000&pause=870&color=EEF715&background=000000&center=true&multiline=true&repeat=false&random=true&width=800&height=109&lines=Hello+hello;I'm+Manjesh%2C+a+Fullstack++and+Artificial+Intelligence+Developer" alt="Typing SVG" /></a>
 
 <br>
-<pre>
+
 I'm an aspiring full-stack and Artificial Intelligence creator who enjoys building innovative technologies that have an impact on the digital economy one step at a time. I enjoy contributing to all sorts of projects, ranging from basic structures to large enterprise applications. From planning and designing all the way to solving really complex real-world problems with code is what I enjoy the most. I continuously contribute to any real-world open-source projects.
 
+<pre>
 🔭 I’m currently building my skills in Artificial Intelligence, Fullstack development, and Distributed Systems <br>
 🌱 I’m currently looking for a Full-Time Software Engineering Role <br>
 📚 MSE @ San Jose State University <br>
