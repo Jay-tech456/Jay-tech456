@@ -15,12 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 **`💻🪐  Software Sculpture(Fullstack/Artificial Intelligence/Creator)  🖥️ `**
 -->
+ <h1 align="center">Welcome to my GitHub profile~ =＾● ⋏ ●＾=</h1>
+
  
+  <a href="https://git.io/typing-svg" >
+            <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=F7E429&background=000000F6&center=true&vCenter=true&random=false&width=488&height=100&lines=Hello+Hello;My+name+is+Manjesh+P.;A+Software+Engineer;And+a+Fullstack+Artist" alt="Typing SVG" />
+        </a>
+    <a href="https://git.io/typing-svg" >
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=29DAF7&background=000000F6&center=true&vCenter=true&random=false&width=488&height=100&lines=AI%2FML+Sculpturer+;PERN+Stack+Wizzard;MERN+Stack+Warrior;LAMP+Stack+Scientist" alt="Typing SVG" />
+        </a>
+        
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anta&size=25&duration=3000&pause=870&color=EEF715&background=000000&center=true&multiline=true&repeat=false&random=true&width=800&height=170&lines=Hello+hello;I'm+Manjesh%2C+a+Fullstack++and+Artificial+Intelligence+Developer" alt="Typing SVG" /></a>
 
 
+
+---
+### 🖥️ About Me
 I'm an aspiring full-stack and Artificial Intelligence creator who enjoys building innovative technologies that have an impact on the digital economy one step at a time. I enjoy contributing to all sorts of projects, ranging from basic structures to large enterprise applications. From planning and designing all the way to solving really complex real-world problems with code is what I enjoy the most. 
 
 <pre>
@@ -32,8 +43,8 @@ I'm an aspiring full-stack and Artificial Intelligence creator who enjoys buildi
 </pre>
 
 <div> 
-     <a href="mailto:manjeshprasad21@gmail.com"> 
-          <img alt="Email" title "Please email me" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+     <a href="mailto:manjeshprasad21@gmail.com" > 
+          <img  align="left" alt="Email" title "Please email me" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
      </a> 
      <a href="https://www.linkedin.com/in/manjesh-p-91902919a/">
          <img alt="LinkedIn" title="Connect with me on LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -42,7 +53,6 @@ I'm an aspiring full-stack and Artificial Intelligence creator who enjoys buildi
 
 
 ---
-
 ### 🧰 Languages and Tools
 <div>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -60,3 +70,19 @@ I'm an aspiring full-stack and Artificial Intelligence creator who enjoys buildi
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 </div>
+
+
+---
+<section>
+  <div style="margin-top: 20px;">
+    <p>
+      <a href="https://github.com/Jay-tech456">
+        <img src="https://github-readme-stats.vercel.app/api?username=Jay-tech456&hide_border=true&show_icons=true&theme=dark" alt="Jay-tech456's github stats">
+      </a>
+    </p>
+  </div>
+</section>
+
+<footer align ="center"> 
+ <span >🍀 I'm currently working on my GitHub profile. </span>
+ </footer>
