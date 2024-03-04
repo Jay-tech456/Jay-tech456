@@ -71,8 +71,11 @@ I'm an aspiring full-stack and Artificial Intelligence creator who enjoys buildi
  <img align="left" alt="php" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
  <img align="left" alt="mongodb" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   
-<br />
+
 </div>
+
+<br />
+---
 
 
 ---
