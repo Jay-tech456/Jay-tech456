@@ -74,8 +74,7 @@ I'm an aspiring full-stack and Artificial Intelligence creator who enjoys buildi
 
 </div>
 
-<br />
----
+<br>
 
 
 ---
