@@ -36,7 +36,7 @@ I'm an aspiring full-stack and Artificial Intelligence creator who enjoys buildi
 
 <pre>
 🔭 I’m currently building my skills in Artificial Intelligence, Fullstack development, and Distributed Systems <br>
-🌱 I’m currently looking for a Full-Time Software Engineering Role <br>
+🌱 I’m currently working as a Fullstack AI Developer @ Kismet XYZ <br>
 📚 MSE @ San Jose State University <br>
 💬 Ask me about Jazz, Anime, Valorant, and Code
 
