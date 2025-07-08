@@ -18,13 +18,15 @@ Here are some ideas to get you started:
  <h1 align="center" style = "color: #FFFF00">Welcome to my GitHub profile~ =＾● ⋏ ●＾=</h1>
 
  
-  <a href="https://git.io/typing-svg" >
-            <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=F7E429&background=000000F6&center=true&vCenter=true&random=false&width=488&height=100&lines=Hello+Hello;My+name+is+Manjesh+P.;A+Software+Engineer;And+a+Fullstack+Artist" alt="Typing SVG" />
-        </a>
-    <a href="https://git.io/typing-svg" >
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=29DAF7&background=000000F6&center=true&vCenter=true&random=false&width=488&height=100&lines=AI%2FML+Sculpturer+;PERN+Stack+Wizzard;MERN+Stack+Warrior;LAMP+Stack+Scientist" alt="Typing SVG" />
-        </a>
-        
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=F7E429&background=000000F6&center=true&vCenter=true&random=false&width=488&height=100&lines=Hello+Hello;My+name+is+Manjesh+P.;A+Software+Engineer;And+a+Fullstack+Artist" alt="Typing SVG" />
+  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=29DAF7&background=000000F6&center=true&vCenter=true&random=false&width=488&height=100&lines=AI%2FML+Sculpturer+;PERN+Stack+Wizzard;MERN+Stack+Warrior;LAMP+Stack+Scientist" alt="Typing SVG" />
+  </a>
+</div>
+
 
 
 
