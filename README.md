@@ -20,7 +20,7 @@ When I'm not training models or building clients' applications, I'm likely grind
 
 * 🏆 **Achievements:** 3x Hackathon Winner (Building at the speed of thought!)
 * 🎓 **Education:** Master of Science in Engineering (MSE) @ San Jose State University
-* 🔭 **Current Project:** Building Fullstack AI Solutions @ **Kismet XYZ**
+* 🔭 **Current Project:** Building Fullstack AI Solutions @ **Kismet XYZ** and Fullstack Solutions @ **GatewayZ**
 * 🎮 **Hobbies:** Valorant, Anime, and Jazz Saxophone.
 * 💬 **Let's Talk:** Jazz, AI Ethics, Valorant Tactics, and Code.
 <center>
