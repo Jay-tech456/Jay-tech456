@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3b82f6,100:000000&height=250&section=header&text=Manjesh%20P.%20✨&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20AI%20Architect%20|%203x%20Hackathon%20Winner%20|%20MSE%20@%20SJSU&descSize=18&descAlignY=55" width="100%"/>
 <div>  
-<!-- <img width="337" src="./img/senyum.png" align=right />
+<img width="337" src="./IMG_5501.jpeg" align=right />
 <br/>
-<img src="./img/AboutMe-elaina.png" width="488" /> -->
+<img src="./IMG_5500.jpeg" width="488" />
 <br/>
 <br/>
 <br/>
