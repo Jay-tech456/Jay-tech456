@@ -14,13 +14,13 @@
 ---
 
 ### 🏮 Current Quest Log
-I am a Fullstack AI Developer who bridges the gap between complex machine learning models and intuitive user experiences. 
+I am a full-stack AI Developer who bridges the gap between complex machine learning models and intuitive user experiences. 
 
-When I'm not building agents or clients' applications, I'm likely grinding in **Valorant** or dining at a random Bay Area restaurant. 
+When I'm not building agents or clients' applications, I'm likely grinding in **Valorant** or dining at a random restaurant in the Bay Area. 
 
 * 🏆 **Achievements:** 3x Hackathon Winner (Building at the speed of thought!)
+* 🔭 **Current Project:** Building Fullstack AI Solutions @ **Kismet XYZ** and Solutions Architecture @ **GatewayZ**
 * 🎓 **Education:** Master of Science in Engineering (MSE) @ San Jose State University
-* 🔭 **Current Project:** Building Fullstack AI Solutions @ **Kismet XYZ** and Fullstack Solutions @ **GatewayZ**
 * 🎮 **Hobbies:** Valorant, Anime, and Jazz Saxophone.
 * 💬 **Let's Talk:** Jazz, AI Ethics, Valorant Tactics, and Code.
 <center>
