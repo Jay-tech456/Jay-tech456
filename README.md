@@ -16,7 +16,7 @@
 ### 🏮 Current Quest Log
 I am a Fullstack AI Developer who bridges the gap between complex machine learning models and intuitive user experiences. 
 
-When I'm not training models or building clients' applications, I'm likely grinding in **Valorant** or eating Korean BBQ at a random Bay Area restaurant. 
+When I'm not building agents or clients' applications, I'm likely grinding in **Valorant** or dining at a random Bay Area restaurant. 
 
 * 🏆 **Achievements:** 3x Hackathon Winner (Building at the speed of thought!)
 * 🎓 **Education:** Master of Science in Engineering (MSE) @ San Jose State University
