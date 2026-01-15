@@ -46,10 +46,12 @@ When I'm not building agents or clients' applications, I'm likely grinding in **
 ---
 
 ### 📊 Tactical Overview (Performance)
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jay-tech456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jay-tech456 GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-tech456&layout=compact&theme=tokyonight&hide_border=true" alt="Jay-tech456 Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jay-tech456&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-tech456&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </div>
+
 
 <br>
 
